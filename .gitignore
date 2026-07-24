@@ -11,9 +11,3 @@ __pycache__/
 # Arquivos de sistema e do Google Colab
 .DS_Store
 .ipynb_checkpoints/
-
-# Ignorar as imagens e dados (cada um testa com os seus locais)
-data/
-*.jpg
-*.jpeg
-*.png
